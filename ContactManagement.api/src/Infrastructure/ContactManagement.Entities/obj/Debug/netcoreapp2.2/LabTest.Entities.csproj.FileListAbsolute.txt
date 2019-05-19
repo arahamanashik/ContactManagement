@@ -1,0 +1,17 @@
+C:\Users\Zafar\source\Repos\LabTest\src\Infrastructure\LabTest.Entities\bin\Debug\netcoreapp2.2\LabTest.Entities.deps.json
+C:\Users\Zafar\source\Repos\LabTest\src\Infrastructure\LabTest.Entities\bin\Debug\netcoreapp2.2\LabTest.Entities.dll
+C:\Users\Zafar\source\Repos\LabTest\src\Infrastructure\LabTest.Entities\bin\Debug\netcoreapp2.2\LabTest.Entities.pdb
+C:\Users\Zafar\source\Repos\LabTest\src\Infrastructure\LabTest.Entities\obj\Debug\netcoreapp2.2\LabTest.Entities.csprojAssemblyReference.cache
+C:\Users\Zafar\source\Repos\LabTest\src\Infrastructure\LabTest.Entities\obj\Debug\netcoreapp2.2\LabTest.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Zafar\source\Repos\LabTest\src\Infrastructure\LabTest.Entities\obj\Debug\netcoreapp2.2\LabTest.Entities.AssemblyInfoInputs.cache
+C:\Users\Zafar\source\Repos\LabTest\src\Infrastructure\LabTest.Entities\obj\Debug\netcoreapp2.2\LabTest.Entities.AssemblyInfo.cs
+C:\Users\Zafar\source\Repos\LabTest\src\Infrastructure\LabTest.Entities\obj\Debug\netcoreapp2.2\LabTest.Entities.dll
+C:\Users\Zafar\source\Repos\LabTest\src\Infrastructure\LabTest.Entities\obj\Debug\netcoreapp2.2\LabTest.Entities.pdb
+F:\zafar\LabTest\src\Infrastructure\LabTest.Entities\bin\Debug\netcoreapp2.2\LabTest.Entities.deps.json
+F:\zafar\LabTest\src\Infrastructure\LabTest.Entities\bin\Debug\netcoreapp2.2\LabTest.Entities.dll
+F:\zafar\LabTest\src\Infrastructure\LabTest.Entities\bin\Debug\netcoreapp2.2\LabTest.Entities.pdb
+F:\zafar\LabTest\src\Infrastructure\LabTest.Entities\obj\Debug\netcoreapp2.2\LabTest.Entities.csproj.CoreCompileInputs.cache
+F:\zafar\LabTest\src\Infrastructure\LabTest.Entities\obj\Debug\netcoreapp2.2\LabTest.Entities.AssemblyInfoInputs.cache
+F:\zafar\LabTest\src\Infrastructure\LabTest.Entities\obj\Debug\netcoreapp2.2\LabTest.Entities.AssemblyInfo.cs
+F:\zafar\LabTest\src\Infrastructure\LabTest.Entities\obj\Debug\netcoreapp2.2\LabTest.Entities.dll
+F:\zafar\LabTest\src\Infrastructure\LabTest.Entities\obj\Debug\netcoreapp2.2\LabTest.Entities.pdb
